@@ -31,12 +31,12 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:0px;
+	top:-0px;
 	transition: top 300ms ease;
 }
 
 .main-nav a:hover{
-	top:5px;
+	top:-5px;
 }
 
 .page-content{
